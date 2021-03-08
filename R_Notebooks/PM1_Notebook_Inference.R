@@ -6,6 +6,7 @@ setwd( "C:/Users/Anzony/Documents/GitHub/14.38_Causal_ML")
 
 load( "data/wage2015_subsample_inference.Rdata")
 attach(data)
+==
 dim(data)
 
 library(xtable)
