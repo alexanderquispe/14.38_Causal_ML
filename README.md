@@ -1,2 +1,2 @@
 # 14.38_Causal_ML
-JupyterNotebook for the MIT course
+Jupyter Notebooks for 14.38 Inference on Causal and Structural Parameters Using ML and AI at MIT.
